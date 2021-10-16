@@ -1,4 +1,5 @@
-away_team <-
+aborted_play <-
+  away_team <-
   away_timeouts_remaining <-
   away_total <-
   conv_1pt <-
@@ -123,4 +124,5 @@ away_team <-
   type_text <-
   yardline <-
   yardline_number <-
-  yardline_side <- NULL
+  yardline_side <-
+  aborted_play <- NULL

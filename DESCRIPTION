@@ -1,7 +1,7 @@
 Package: nfl4th
 Title: Functions to Calculate Optimal Fourth Down Decisions in the
         National Football League
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     c(person(given = "Ben",
              family = "Baldwin",
@@ -15,20 +15,20 @@ Description: A set of functions to estimate outcomes of fourth down
     plays in the National Football League and obtain fourth down plays
     from <https://www.nfl.com/> and <https://www.espn.com/>.
 License: MIT + file LICENSE
-URL: https://www.nfl4th.com/, https://github.com/guga31bb/nfl4th/
-BugReports: https://github.com/guga31bb/nfl4th/issues
+URL: https://www.nfl4th.com/, https://github.com/nflverse/nfl4th/
+BugReports: https://github.com/nflverse/nfl4th/issues
 Depends: R (>= 2.10)
-Imports: dplyr, glue, httr, janitor, jsonlite, magrittr, mgcv,
-        nflfastR, purrr, stringr, tibble, tidyr, tidyselect, xgboost
+Imports: dplyr, glue, httr, janitor, jsonlite, magrittr, mgcv, nflfastR
+        (>= 4.0.0), nflreadr, purrr, stringr, tibble, tidyr,
+        tidyselect, xgboost
 Suggests: future, gt, rmarkdown, tictoc, tidyverse, testthat (>= 2.0.0)
 Encoding: UTF-8
-LazyData: true
 RoxygenNote: 7.1.1
 Config/testthat/edition: 2
 NeedsCompilation: no
-Packaged: 2021-03-15 12:38:08 UTC; bback
+Packaged: 2021-10-15 23:54:11 UTC; bback
 Author: Ben Baldwin [aut, cre, cph],
   Sebastian Carl [ctb]
 Maintainer: Ben Baldwin <bbaldwin206@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-03-17 13:20:08 UTC
+Date/Publication: 2021-10-16 13:50:02 UTC
