@@ -1,7 +1,7 @@
-b634163953e5f256be125632fd304eab *DESCRIPTION
+1394aa83788a304b1dc6c7e8d07677bd *DESCRIPTION
 dbc991acc959af7aaff5beac08673f83 *LICENSE
 d756b6f5c7c6950d38a51e89189b7e27 *NAMESPACE
-17b4c65bd85e41339e28694358a715ef *NEWS.md
+95c53e531aff235f67e8b694f199d902 *NEWS.md
 69b9d1df1527ba5b84ba16ef7b0980d0 *R/decision_functions.R
 91554ee13d5110c277078b282de2b389 *R/get_game_data.R
 15b9f8d17f886bbf4d3eee52a4702485 *R/helpers.R
@@ -11,7 +11,7 @@ abb21b9e8705da9d1a051422236c4a80 *R/silence_tidy_eval_notes.R
 09862705b1c0b0099824b5d1f876bfa9 *R/table_functions.R
 3e7705f344aeb7561311aa3aef53252b *R/wrapper.R
 914edd607cc24f7c69dd7048c1432e17 *R/zzz.R
-d37cd321e3f64aeee476fc6401cc3e8c *README.md
+16f0881d0fe3a520d8ef9de34d9637c5 *README.md
 f21452d4f74c308bd7df5df9d928e282 *man/add_2pt_probs.Rd
 f5e7acb35b2db0b540c5178407c4f724 *man/add_4th_probs.Rd
 502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
@@ -20,7 +20,7 @@ f5e7acb35b2db0b540c5178407c4f724 *man/add_4th_probs.Rd
 57649cd55f64fa76da9830cf571ab5ce *man/load_4th_pbp.Rd
 1e7b339ed3b234f04a9fb4e3e3552516 *man/make_2pt_table_data.Rd
 e76abb8786464ec5ee48f03bbf97d683 *man/make_table_data.Rd
-d7f5c084681d52dbd0c8517b2642add7 *man/nfl4th-package.Rd
+dc7b73048e56d84bec573a1dff6ab141 *man/nfl4th-package.Rd
 a6e69cb807642296e562309a2e6f4904 *tests/testthat.R
 ef423a4fc3da26d1fb067c88d0cf9ea6 *tests/testthat/helper.R
 d7b26aa265ca51fa2126e2a0d1795a49 *tests/testthat/test-basic.R

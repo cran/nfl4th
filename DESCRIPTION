@@ -1,7 +1,7 @@
 Package: nfl4th
 Title: Functions to Calculate Optimal Fourth Down Decisions in the
         National Football League
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
     c(person(given = "Ben",
              family = "Baldwin",
@@ -23,12 +23,12 @@ Imports: dplyr, glue, httr, janitor, jsonlite, magrittr, mgcv, nflfastR
         tidyselect, xgboost
 Suggests: future, gt, rmarkdown, tictoc, tidyverse, testthat (>= 2.0.0)
 Encoding: UTF-8
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.1.9000
 Config/testthat/edition: 2
 NeedsCompilation: no
-Packaged: 2021-10-15 23:54:11 UTC; bback
+Packaged: 2022-08-11 16:04:05 UTC; bback
 Author: Ben Baldwin [aut, cre, cph],
   Sebastian Carl [ctb]
 Maintainer: Ben Baldwin <bbaldwin206@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-10-16 13:50:02 UTC
+Date/Publication: 2022-08-11 16:40:02 UTC
